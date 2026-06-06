@@ -1,0 +1,30 @@
+{
+  "as_of": "2026-06-05",
+  "data_start_date": "2026-06-04",
+  "days_live": 2,
+  "basis": "paper",
+  "starting_basis_usd": 100.0,
+  "all_time_return_pct": 292.37,
+  "all_time_pnl_usd": 292.37,
+  "total_trades": 90,
+  "win_rate_pct": 87.8,
+  "daily": [
+    {
+      "date": "2026-06-04",
+      "pnl_usd": 127.66,
+      "return_pct": 127.66,
+      "cumulative_pct": 127.66,
+      "trades": 35,
+      "win_rate_pct": 91.4
+    },
+    {
+      "date": "2026-06-05",
+      "pnl_usd": 164.71,
+      "return_pct": 164.71,
+      "cumulative_pct": 292.37,
+      "trades": 55,
+      "win_rate_pct": 85.5
+    }
+  ],
+  "disclaimer": "Hypothetical / simulated paper-trading results \u2014 no real money was traded. For educational purposes only. NOT financial, investment, or trading advice. Past performance does not guarantee future results. This is a personal research project, not a fund or investment product. We do not solicit, accept, or manage anyone's money. Prediction-market trading carries substantial risk of loss."
+}
