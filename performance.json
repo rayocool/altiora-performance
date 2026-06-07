@@ -5,19 +5,19 @@
   "basis": "paper",
   "starting_basis_usd": 100.0,
   "sizing": "8% of current bankroll, compounding (liquidity-capped $5000)",
-  "all_time_return_pct": 48.33,
-  "all_time_pnl_usd": 48.33,
-  "current_bankroll_usd": 148.33,
-  "total_trades": 13,
-  "win_rate_pct": 84.6,
+  "all_time_return_pct": 55.84,
+  "all_time_pnl_usd": 55.84,
+  "current_bankroll_usd": 155.84,
+  "total_trades": 14,
+  "win_rate_pct": 85.7,
   "daily": [
     {
       "date": "2026-06-07",
-      "pnl_usd": 48.33,
-      "return_pct": 48.33,
-      "cumulative_pct": 48.33,
-      "trades": 13,
-      "win_rate_pct": 84.6
+      "pnl_usd": 55.84,
+      "return_pct": 55.84,
+      "cumulative_pct": 55.84,
+      "trades": 14,
+      "win_rate_pct": 85.7
     }
   ],
   "disclaimer": "Hypothetical / simulated paper-trading results \u2014 no real money was traded. For educational purposes only. NOT financial, investment, or trading advice. Past performance does not guarantee future results. This is a personal research project, not a fund or investment product. We do not solicit, accept, or manage anyone's money. Prediction-market trading carries substantial risk of loss."
