@@ -8,7 +8,7 @@
   "all_time_return_pct": 54.02,
   "all_time_pnl_usd": 54.02,
   "current_bankroll_usd": 154.02,
-  "total_trades": 22,
+  "total_trades": 23,
   "win_rate_pct": 77.3,
   "daily": [
     {
@@ -16,7 +16,7 @@
       "pnl_usd": 54.02,
       "return_pct": 54.02,
       "cumulative_pct": 54.02,
-      "trades": 22,
+      "trades": 23,
       "win_rate_pct": 77.3
     }
   ],
