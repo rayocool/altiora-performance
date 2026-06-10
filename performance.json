@@ -5,11 +5,11 @@
   "basis": "paper",
   "starting_basis_usd": 100.0,
   "sizing": "8% of current bankroll, compounding (liquidity-capped $5000)",
-  "all_time_return_pct": 115.12,
-  "all_time_pnl_usd": 115.12,
-  "current_bankroll_usd": 215.12,
-  "total_trades": 108,
-  "win_rate_pct": 81.3,
+  "all_time_return_pct": 125.81,
+  "all_time_pnl_usd": 125.81,
+  "current_bankroll_usd": 225.81,
+  "total_trades": 110,
+  "win_rate_pct": 81.7,
   "daily": [
     {
       "date": "2026-06-07",
@@ -37,10 +37,10 @@
     },
     {
       "date": "2026-06-10",
-      "pnl_usd": 8.73,
-      "return_pct": 4.23,
-      "cumulative_pct": 115.12,
-      "trades": 2,
+      "pnl_usd": 19.43,
+      "return_pct": 9.41,
+      "cumulative_pct": 125.81,
+      "trades": 4,
       "win_rate_pct": 100.0
     }
   ],
