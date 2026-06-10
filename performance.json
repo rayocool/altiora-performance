@@ -1,48 +1,13 @@
 {
   "as_of": "2026-06-10",
-  "data_start_date": "2026-06-07",
-  "days_live": 4,
-  "basis": "paper",
-  "starting_basis_usd": 100.0,
-  "sizing": "8% of current bankroll, compounding (liquidity-capped $5000)",
-  "all_time_return_pct": 64.03,
-  "all_time_pnl_usd": 64.03,
-  "current_bankroll_usd": 164.03,
-  "total_trades": 128,
-  "win_rate_pct": 79.5,
-  "daily": [
-    {
-      "date": "2026-06-07",
-      "pnl_usd": 99.7,
-      "return_pct": 99.7,
-      "cumulative_pct": 99.7,
-      "trades": 31,
-      "win_rate_pct": 80.0
-    },
-    {
-      "date": "2026-06-08",
-      "pnl_usd": 49.6,
-      "return_pct": 24.84,
-      "cumulative_pct": 149.3,
-      "trades": 34,
-      "win_rate_pct": 88.2
-    },
-    {
-      "date": "2026-06-09",
-      "pnl_usd": -42.92,
-      "return_pct": -17.21,
-      "cumulative_pct": 106.38,
-      "trades": 41,
-      "win_rate_pct": 75.6
-    },
-    {
-      "date": "2026-06-10",
-      "pnl_usd": -42.36,
-      "return_pct": -20.52,
-      "cumulative_pct": 64.03,
-      "trades": 22,
-      "win_rate_pct": 72.7
-    }
-  ],
-  "disclaimer": "Hypothetical / simulated paper-trading results \u2014 no real money was traded. For educational purposes only. NOT financial, investment, or trading advice. Past performance does not guarantee future results. This is a personal research project, not a fund or investment product. We do not solicit, accept, or manage anyone's money. Prediction-market trading carries substantial risk of loss."
+  "status": "retired",
+  "basis": "retired",
+  "notice": "This strategy has been retired. Rigorous testing \u2014 including a fills-level audit of every live trade \u2014 found Kalshi's 15-minute crypto market to be efficient: no durable edge after fees and spread. Live real-money results were approximately breakeven. Altiora ships only strategies the data proves, and we are now researching markets where a real edge can exist.",
+  "all_time_return_pct": 0,
+  "all_time_pnl_usd": 0,
+  "current_bankroll_usd": 0,
+  "total_trades": 0,
+  "win_rate_pct": 0,
+  "daily": [],
+  "disclaimer": "Past performance is not indicative of future results. Analytics, not financial advice. Nothing here is an offer to buy or sell any security or contract."
 }
